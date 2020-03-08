@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohyoosoope.fixni.me/sitemap.xml
